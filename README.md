@@ -47,7 +47,7 @@ We recommend downloading datasets from their official websites when available.
 
 We provide **preprocessed and unified versions** of the datasets for direct use:
 
-👉 **Baidu Netdisk**: [https://pan.baidu.com/s/XXXX](https://pan.baidu.com/s/1KMl105tsyUr5rTvCmJay-Q)  
+👉 **Baidu Netdisk**: [百度网盘链接](https://pan.baidu.com/s/1Aphn-G8JDNSYtezmt7nYOA)  
 🔑 Code: 2026 
 ---
 
