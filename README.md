@@ -42,17 +42,6 @@ If you find this repository or the processed datasets helpful for your research,
 
 ```bibtex
 % Paper 1
-@inproceedings{xia2026probabilistic,
-  title={Probabilistic Deformation Consistency for Unsupervised Shape Matching},
-  author={Xia, Yifan and Ye, Tianwei and Huang, Jun and Mei, Xiaoguang and Ma, Jiayi},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={40},
-  number={13},
-  pages={10951--10959},
-  year={2026}
-}
-
-% Paper 2
 @inproceedings{xia2024locality,
   title={Locality preserving refinement for shape matching with functional maps},
   author={Xia, Yifan and Lu, Yifan and Gao, Yuan and Ma, Jiayi},
@@ -62,6 +51,19 @@ If you find this repository or the processed datasets helpful for your research,
   pages={6207--6215},
   year={2024}
 }
+
+% Paper 2
+@inproceedings{xia2025multi,
+  title={Multi-shape matching with cycle consistency basis via functional maps},
+  author={Xia, Yifan and Ye, Tianwei and Zhou, Huabing and Wang, Zhongyuan and Ma, Jiayi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={8},
+  pages={8575--8583},
+  year={2025}
+}
+
+
 
 % Paper 3
 @article{xia2026locality,
