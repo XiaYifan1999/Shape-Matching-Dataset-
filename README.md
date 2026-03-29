@@ -23,7 +23,7 @@ To support research in this area, we organize commonly used datasets into a **un
 | Dataset | Category | Characteristics | Link |
 |--------|----------|----------------|------|
 | FAUST | Human | Near-isometric deformation | https://faust.is.tue.mpg.de |
-| SCAPE | Human | Large non-rigid deformation | https://is.mpg.de/code/scape-dataset |
+| SCAPE | Human | Large non-rigid deformation | https://ai.stanford.edu/~drago/Projects/scape/scape.html |
 | TOSCA | Synthetic | Canonical isometric benchmark | http://tosca.cs.technion.ac.il |
 | SHREC16 | Partial matching | Partial shapes | https://www.shrec.net |
 | SHREC19 | Cross-dataset | Generalization evaluation | https://www.shrec.net |
