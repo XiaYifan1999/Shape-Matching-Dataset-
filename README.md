@@ -20,35 +20,19 @@ To support research in this area, we organize commonly used datasets into a **un
 
 ## 📊 Supported Datasets
 
-| Dataset | Category | Characteristics |
-|--------|----------|----------------|
-| FAUST | Human | Near-isometric deformation |
-| SCAPE | Human | Large non-rigid deformation |
-| TOSCA | Synthetic | Canonical isometric benchmark |
-| SHREC16 | Partial matching | Partial shapes |
-| SHREC19 | Cross-dataset | Generalization evaluation |
-| SHREC20 | Partial / noisy | Realistic challenges |
-| DT4D-H | Cross-category | Strong non-isometric deformation |
-| SMAL | Animal | Category-level variation |
-| KIDS | Synthetic | Complex deformation |
-| TOPKIDS | Synthetic | Topological noise |
+| Dataset | Category | Characteristics | Link |
+|--------|----------|----------------|------|
+| FAUST | Human | Near-isometric deformation | https://faust.is.tue.mpg.de |
+| SCAPE | Human | Large non-rigid deformation | https://is.mpg.de/code/scape-dataset |
+| TOSCA | Synthetic | Canonical isometric benchmark | http://tosca.cs.technion.ac.il |
+| SHREC16 | Partial matching | Partial shapes | https://www.shrec.net |
+| SHREC19 | Cross-dataset | Generalization evaluation | https://www.shrec.net |
+| SHREC20 | Partial / noisy | Realistic challenges | https://www.shrec.net |
+| DT4D-H | Cross-category | Strong non-isometric deformation | https://github.com/RobinMagnet/DT4D |
+| SMAL | Animal | Category-level variation | https://smal.is.tue.mpg.de |
+| KIDS | Synthetic | Complex deformation | https://github.com/RobinMagnet/KIDS |
+| TOPKIDS | Synthetic | Topological noise | https://github.com/RobinMagnet/TOPKIDS |
 
----
-
-## 📥 Download
-
-### 🔗 Option 1: Official Sources
-
-We recommend downloading datasets from their official websites when available.
-
----
-
-### 🚀 Option 2: Processed Version (Recommended)
-
-We provide **preprocessed and unified versions** of the datasets for direct use:
-
-👉 **Baidu Netdisk**: [百度网盘链接](https://pan.baidu.com/s/1Aphn-G8JDNSYtezmt7nYOA)  
-🔑 Code: 2026 
 ---
 
 ## 📌 Citation
