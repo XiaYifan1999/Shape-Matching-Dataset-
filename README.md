@@ -32,7 +32,7 @@ To support research in this area, we organize commonly used datasets into a **un
 | SHREC16 | Partial matching | Partial shapes | https://www.shrec.net/ |
 | SHREC19 | Cross-dataset | Generalization evaluation | https://www.shrec.net/ |
 | SHREC20 | Partial / noisy | Realistic challenges | https://www.shrec.net/ |
-| DT4D-H | Cross-category | Strong non-isometric deformation | https://github.com/RobinMagnet/DT4D |
+| DT4D-H | Cross-category | Strong non-isometric deformation | https://github.com/rabbityl/DeformingThings4D |
 
 ---
 
